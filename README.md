@@ -16,21 +16,7 @@ Smart Weather is a sleek and modern weather application that delivers real-time,
 
 ## 🛠 Installation
 
-To run **Smart Weather** on your local machine:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/smart-weather.git
-
-# Navigate to the project directory
-cd smart-weather
-
-# Install dependencies
-npm install
-
-# Start the application
-npm start
-```
+Coming soon!
 
 ---
 
